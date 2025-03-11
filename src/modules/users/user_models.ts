@@ -19,7 +19,6 @@ export interface IUser{
     name : string;
     age : number;
     email : string;
-
 }
 
 const User = mongoose.model('User', userSchema);

@@ -1,6 +1,5 @@
 // src/controllers/user_controller.ts
 import { saveMethod, createUser, getAllUsers, getUserById, updateUser, deleteUser } from '../users/user_service.js';
-
 import express, { Request, Response } from 'express';
 
 export const saveMethodHandler = async (req: Request, res: Response) => {

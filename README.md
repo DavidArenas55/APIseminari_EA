@@ -45,5 +45,9 @@ http://localhost:9000/api-docs
 - `typescript`: Suport per a TypeScript.
 - `@types/*`: Definicions de tipus per a biblioteques utilitzades.
 
+Videos: (dos videos de 1 minuts per mostrar el codi i el swagger)
+https://www.youtube.com/watch?v=vqriGeUALX8
+https://www.youtube.com/watch?v=GxJK29nO4Fs
 
+Referencie: chatGPT
 
